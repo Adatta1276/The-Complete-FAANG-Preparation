@@ -12,7 +12,7 @@
 
 ## `Usage`
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=00ff00&vCenter=true&lines=The+Complete+FAANG+Preparation+pot%3F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=0000&vCenter=true&lines=The+Complete+FAANG+Preparation+pot%3F)
 
 
 ## [`Welcome to The-Complete-FAANG-Preparation Discussions!`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/discussions)
